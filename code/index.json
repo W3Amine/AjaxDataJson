@@ -1,0 +1,302 @@
+[
+  {
+    "title":"Avatar",
+    "director":"James Cameron",
+    "runtime":162,
+    "year":2009,
+    "poster":"https://whatsondisneyplus.com/wp-content/uploads/2022/11/FiGxyDsVEAAs7sm.jpg",
+    "festivals": ["Gerardmer", "Grand Prize", "Hola2020", "Una Siamana"],
+    "actors": [
+      {
+        "firstName": "Sam",
+        "lastName": "Worthington",
+        "nationality": "United Kingdom"
+      },
+      {
+        "firstName": "Zoe",
+        "lastName": "Saldana",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Sigourney",
+        "lastName": "Weaver",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Stephen",
+        "lastName": "Lang",
+        "nationality": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Avengers",
+    "director": "Joss Whedon",
+    "runtime":143,
+    "year":2012,
+    "poster": "https://i.pinimg.com/736x/30/dc/6c/30dc6cd7a41fd5e25b5ce9415adec6eb.jpg",
+    "festivals": ["Fiesta", "Giron", "Acua Man", "Thor"],
+    "actors": [
+      {
+        "firstName": "Robert",
+        "lastName": "Downey Jr.",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Chris",
+        "lastName": "Evans",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Mark",
+        "lastName": "Ruffalo",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Chris",
+        "lastName": "Hemsworth",
+        "nationality": "Australia"
+      }
+    ]
+  },
+  {
+    "title": "Wolf of Wall Street",
+    "director": "Martin Scorsese",
+    "runtime":180,
+    "year":2013,
+    "poster": "https://i.ytimg.com/vi/J788MZ2uIGA/movieposter_en.jpg",
+    "festivals": ["Commercials", "Intima", "Money Makers", "Kama"],
+    "actors": [
+      {
+        "firstName": "Leonardo",
+        "lastName": "DiCaprio",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Jonah",
+        "lastName": "Hill",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Margot",
+        "lastName": "Robbie",
+        "nationality": "Australia"
+      },
+      {
+        "firstName": "Matthew",
+        "lastName": "McConaughey",
+        "nationality": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Legend",
+    "director": "Francis Lawrence",
+    "runtime":101,
+    "year":2007,
+    "poster": "https://m.media-amazon.com/images/I/91gjuOy0TGL._AC_UF894,1000_QL80_.jpg",
+    "festivals": ["Drama", "Action", "Science", "Execited"],
+    "actors": [
+      {
+        "firstName": "Will",
+        "lastName": "Smith",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Alice",
+        "lastName": "Braga",
+        "nationality": "Brazil"
+      },
+      {
+        "firstName": "Charlie",
+        "lastName": "Tahan",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Salli",
+        "lastName": "Richardson-Whitfield",
+        "nationality": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Game of Thrones",
+    "director": "Miguel Sapochenic",
+    "runtime":56,
+    "year":2011,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "festivals": ["Him", "Behind me", "Together", "Death"],
+    "actors": [
+      {
+        "firstName": "Peter",
+        "lastName": "Dinklage",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Lena",
+        "lastName": "Headey",
+        "nationality": "Bermuda"
+      },
+      {
+        "firstName": "Emilia",
+        "lastName": "Clarke",
+        "nationality": "United Kingdom"
+      },
+      {
+        "firstName": "Kit",
+        "lastName": "Harington",
+        "nationality": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "title": "Vikings",
+    "director": "Scott Kuhn",
+    "runtime":44,
+    "year":2013,
+    "poster": "https://static.displate.com/280x392/displate/2020-06-15/d711744ebc10f1d8097e3f2070219e14_853c1bfc599776344553619179c6761f.jpg",
+    "festivals": ["Love", "Scene", "Wonderfull", "Amazing"],
+    "actors": [
+      {
+        "firstName": "Travis",
+        "lastName": "Fimmel",
+        "nationality": "Australia"
+      },
+      {
+        "firstName": "Clive",
+        "lastName": "Standen",
+        "nationality": "United Kingdom"
+      },
+      {
+        "firstName": "Gustaf",
+        "lastName": "Skarsgård",
+        "nationality": "Sweden"
+      },
+      {
+        "firstName": "Katheryn",
+        "lastName": "Winnick",
+        "nationality": "Canada"
+      }
+    ]
+  },
+  {
+    "title": "Gotham",
+    "director": "Francis Lawrence",
+    "runtime":42,
+    "year":2014,
+    "poster": "https://i.ebayimg.com/images/g/FSIAAOSwg2xZehD6/s-l1600.jpg",
+    "festivals": ["Gotham", "Super", "High", "Scary"],
+    "actors": [
+      {
+        "firstName": "Ben",
+        "lastName": "McKenzie",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Donal",
+        "lastName": "Logue",
+        "nationality": "Canada"
+      },
+      {
+        "firstName": "David",
+        "lastName": "Mazouz",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Sean",
+        "lastName": "Pertwee",
+        "nationality": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "title": "Power",
+    "director": "Sidney Lumet",
+    "runtime":50,
+    "year":2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_FMjpg_UX1000_.jpg",
+    "festivals": ["Stars", "boolywood", "Angel", "Drama"],
+    "actors": [
+      {
+        "firstName": "Omari",
+        "lastName": "Hardwick",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Joseph",
+        "lastName": "Sikora",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Andy",
+        "lastName": "Bean",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Lela",
+        "lastName": "Loren",
+        "nationality": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Narcos",
+    "director": "Series Writing",
+    "runtime":49,
+    "year":2015,
+    "poster": "https://cdn.europosters.eu/image/750/posters/narcos-blow-business-i31851.jpg",
+    "festivals": ["Scene", "Action", "Theme", "Riaf"],
+    "actors": [
+      {
+        "firstName": "Carlo",
+        "lastName": "Bernard",
+        "nationality": "Spain"
+      },
+      {
+        "firstName": "Chris",
+        "lastName": "Brancato",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Doug",
+        "lastName": "Miro",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Paul",
+        "lastName": "Eckstein",
+        "nationality": "United States"
+      }
+    ]
+  },
+  {
+    "title": "Breaking Bad",
+    "director": "George Gilligan ",
+    "runtime":49,
+    "year":2008,
+    "poster": "https://m.media-amazon.com/images/I/A1pkVxm26RL.jpg",
+    "festivals": ["After", "Let Me", "Hind", "Wolf"],
+    "actors": [
+      {
+        "firstName": "Bryan",
+        "lastName": "Cranston",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Anna",
+        "lastName": "Gunn",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Aaron",
+        "lastName": "Paul",
+        "nationality": "United States"
+      },
+      {
+        "firstName": "Dean",
+        "lastName": "Norris",
+        "nationality": "United States"
+      }
+    ]
+  }
+]

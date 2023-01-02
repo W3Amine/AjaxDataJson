@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <link rel="shortcut icon" href="#" >
+    <script src="https://kit.fontawesome.com/c7a60e43cd.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.css">
+    <script src="/packages/jquery.js"></script>
+    <title class="fs-1">Movie Land</title>
+  </head>
+  <body>
+    <header>
+
+      <div class="d-flex mx-auto mt-5 mb-5 justify-content-center">
+    <input type="text" name="search" id="SearchInput" placeholder="Search..." class="form-control d-inline w-50"/>
+      </div>
+
+    </header>
+
+    <div class="col-md-10 mx-auto">
+
+    <table class="table table-bordered table-hover table-responsive" id="myTable">
+      <thead>
+        <tr>
+          <th scope="col" >title
+            <i class="fa-solid fa-sort-up  "  data-title="title" data-order="up" ></i>
+            <i class="fa-solid fa-sort-down "   data-title="title" data-order="down"></i>
+          </th>
+          <th scope="col" >Director
+            <i class="fa-solid fa-sort-up  "  data-title="director" data-order="up" ></i>
+            <i class="fa-solid fa-sort-down "   data-title="director" data-order="down"></i>
+          </th>
+          <th scope="col">Runtime
+            <i class="fa-solid fa-sort-up  "  data-title="runtime" data-order="up" ></i>
+            <i class="fa-solid fa-sort-down "   data-title="runtime" data-order="down"></i>
+
+          </th>
+          <th scope="col">Year
+            <i class="fa-solid fa-sort-up  "  data-title="year" data-order="up" ></i>
+            <i class="fa-solid fa-sort-down "   data-title="year" data-order="down"></i>
+          </th>
+          <th scope="col">Poster</th>
+          <th scope="col">Festivals</th>
+          <th scope="col">Actors</th>
+        </tr>
+      </thead>
+      <tbody id="tBody"></tbody>
+    </table>
+
+
+    </div>
+    <script src="/code/index.js"></script>
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.bundle.js"></script>
+  </body>
+</html>
